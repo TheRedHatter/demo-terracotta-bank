@@ -60,3 +60,5 @@ You can re-build the docker image (used by Terraform) by running two scripts in 
 
 * 1-Build-Docker-Image.sh
 * 2-Deploy-Docker-Image-To-Docker-Hub.sh
+
+Random update: 2353
